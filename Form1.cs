@@ -44,6 +44,7 @@ namespace Test1
             l.Año = 2019;
             l.Memoria = 16;
             MessageBox.Show(l.ToString());
+
         }
     }
 }
